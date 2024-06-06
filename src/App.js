@@ -3,7 +3,7 @@ import YellowWorld from './YellowWorld';
 
 function App() {
   return (
-    <div className="App">
+    <div>
       <YellowWorld />
     </div>
   );
